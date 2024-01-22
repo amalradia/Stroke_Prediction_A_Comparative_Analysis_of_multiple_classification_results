@@ -27,8 +27,13 @@ KNN:
 Imbalance affects prediction of stroke cases (class 1).
 
 Ethical Considerations
+
 Class Imbalance: Imbalanced data impacts predictions, potentially leading to biases and health disparities.
+
 Interpretability: Transparency and interpretability are crucial for healthcare professionals to trust and understand model decisions.
+
 Privacy and Consent: Adhering to privacy standards and obtaining informed consent are essential in developing ethically sound healthcare applications.
+
 Conclusion
+
 While machine learning algorithms show potential in healthcare, ethical considerations such as class imbalance, interpretability, and privacy standards must be addressed. Achieving a balance between progress and ethical responsibility is crucial to prioritize patient well-being and foster trust in healthcare technology. All four classification algorithms should be approached cautiously on this dataset based on the results.
