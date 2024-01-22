@@ -7,22 +7,25 @@ The dataset includes features such as age, gender, hypertension, heart disease, 
 Classification Algorithms in Python
 
 k Nearest Neighbors (KNN): Utilized for its ability to identify patterns and relationships in healthcare data. Effective in scenarios with unknown data distributions.
+
 Decision Trees: Known for interpretability, useful in uncovering relationships within healthcare data.
+
 Random Forests: Addresses Decision Trees' limitations, reducing overfitting and improving generalization.
+
 Logistic Regression: Chosen for simplicity, interpretability, and established theoretical foundation.
+
 Results
+
 Python Classification Models
+
 Decision Tree:
 High accuracy in predicting instances without strokes (class 0).
 Struggles in predicting strokes (class 1) due to imbalance.
+
 KNN:
 83% overall accuracy.
 Imbalance affects prediction of stroke cases (class 1).
-Azure Machine Learning Designer
-Two Class Decision Forest:
-High overall correctness but struggles with precision and recall for predicting strokes.
-Multiclass Logistic Regression:
-Good overall accuracy but lower precision across classes.
+
 Ethical Considerations
 Class Imbalance: Imbalanced data impacts predictions, potentially leading to biases and health disparities.
 Interpretability: Transparency and interpretability are crucial for healthcare professionals to trust and understand model decisions.
