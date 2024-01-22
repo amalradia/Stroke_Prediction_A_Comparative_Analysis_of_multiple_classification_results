@@ -1,9 +1,11 @@
 This study focuses on predicting and preventing strokes using machine learning techniques in healthcare settings. Leveraging the "Stroke Prediction Dataset" from Kaggle, the research explores classification algorithms (k Nearest Neighbors, Decision Trees, Random Forests, and Logistic Regression) in Python and Azure Machine Learning Designer. The aim is to enhance accuracy and interpretability of stroke prediction models.
 
 Dataset
+
 The dataset includes features such as age, gender, hypertension, heart disease, and smoking status. Exploratory Data Analysis (EDA) involves preprocessing steps like handling missing values, converting categorical to numerical, and splitting into training and testing sets.
 
 Classification Algorithms in Python
+
 k Nearest Neighbors (KNN): Utilized for its ability to identify patterns and relationships in healthcare data. Effective in scenarios with unknown data distributions.
 Decision Trees: Known for interpretability, useful in uncovering relationships within healthcare data.
 Random Forests: Addresses Decision Trees' limitations, reducing overfitting and improving generalization.
